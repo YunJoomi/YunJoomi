@@ -2,18 +2,14 @@
 
 ## 🔨 GitHub Stats 🔨
 
-<p align="center"><a href="https://github.com/YunJoomi/YunJoomi">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=YunJoomi&show_icons=true&include_all_commits=true" /></a>
-<a href="https://github.com/YunJoomi/zblog2023">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunJoomi&layout=compact" /></a></p>
+
+| <a href="https://github.com/YunJoomi/YunJoomi"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=YunJoomi&show_icons=true&include_all_commits=true" /></a> | <a href="https://github.com/YunJoomi/zblog2023"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunJoomi&layout=compact" /></a> |
+| ------------- | ------------- |
 
 ## 💻 Representative Repository 💻 
 
-<p align="center"><a href="https://github.com/YunJoomi/zblog2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YunJoomi&repo=zblog2023&show_owner=true" /></a>
-<a href="https://github.com/wnaely/Amazent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Amazent&show_owner=true" /></a></p>
-  <br>
+| <a href="https://github.com/YunJoomi/zblog2023"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YunJoomi&repo=zblog2023&show_owner=true" /></a> | <a href="https://github.com/wnaely/Amazent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Amazent&show_owner=true" /></a> |
+| ------------- | ------------- |
 
 
 
